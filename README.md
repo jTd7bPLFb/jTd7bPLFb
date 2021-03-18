@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Nothing really to se here, just some pre-compiled masternode daemons I want to have online.
+
 <!--
 **jTd7bPLFb/jTd7bPLFb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
